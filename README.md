@@ -1,4 +1,4 @@
-- 👋 Hi, I’m or Hugo Philipps 
+- 👋 Hi, I’m Hugo Philipps 
 - 👀 I’m interested in backend development
 - 🌱 I’m currently learning C#, SQL, PHP, html5, python, JS
 - 📫 How to reach me : @hugo_philipps on twitter or on my email
